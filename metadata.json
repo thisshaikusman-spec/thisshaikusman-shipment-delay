@@ -1,0 +1,6 @@
+{
+  "name": "Shipment Delay Risk Console",
+  "description": "Logistics delay risk prediction console featuring ML predictive scoring, contributing SHAP factors analysis, and real-time operations telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

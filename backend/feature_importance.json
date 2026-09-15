@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Weather Storm",
+    "raw_feature": "weather_Storm",
+    "weight": 23.1
+  },
+  {
+    "name": "Weather Clear",
+    "raw_feature": "weather_Clear",
+    "weight": 22.5
+  },
+  {
+    "name": "Weather Snow",
+    "raw_feature": "weather_Snow",
+    "weight": 12.3
+  },
+  {
+    "name": "Is Holiday",
+    "raw_feature": "is_holiday",
+    "weight": 12.3
+  },
+  {
+    "name": "Supplier Reliability",
+    "raw_feature": "supplier_reliability",
+    "weight": 9.5
+  },
+  {
+    "name": "Weather Rain",
+    "raw_feature": "weather_Rain",
+    "weight": 7.2
+  },
+  {
+    "name": "Transport Mode Sea",
+    "raw_feature": "transport_mode_Sea",
+    "weight": 5.4
+  },
+  {
+    "name": "Distance Km",
+    "raw_feature": "distance_km",
+    "weight": 2.7
+  },
+  {
+    "name": "Transport Mode Rail",
+    "raw_feature": "transport_mode_Rail",
+    "weight": 2.4
+  },
+  {
+    "name": "Weather Fog",
+    "raw_feature": "weather_Fog",
+    "weight": 1.8
+  },
+  {
+    "name": "Transport Mode Air",
+    "raw_feature": "transport_mode_Air",
+    "weight": 0.7
+  },
+  {
+    "name": "Transport Mode Road",
+    "raw_feature": "transport_mode_Road",
+    "weight": 0.1
+  }
+]
